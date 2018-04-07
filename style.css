@@ -10,7 +10,7 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-.subscribe {
+button {
 	-moz-box-shadow:inset 0px 1px 0px 0px #5bb7bf;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #5bb7bf;
 	box-shadow:inset 0px 1px 0px 0px #5bb7bf;
