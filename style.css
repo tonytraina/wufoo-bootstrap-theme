@@ -10,7 +10,6 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-<style type="text/css">
 .subscribe {
 	-moz-box-shadow:inset 0px 1px 0px 0px #5bb7bf;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #5bb7bf;
@@ -47,7 +46,7 @@ html {
 }.classname:active {
 	position:relative;
 	top:1px;
-}</style>
+}
 /* This button was generated using CSSButtonGenerator.com */
 
 body {
