@@ -9,6 +9,47 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
+
+<style type="text/css">
+.subscribe {
+	-moz-box-shadow:inset 0px 1px 0px 0px #5bb7bf;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #5bb7bf;
+	box-shadow:inset 0px 1px 0px 0px #5bb7bf;
+	background-color:#5bb7bf;
+	-webkit-border-top-left-radius:20px;
+	-moz-border-radius-topleft:20px;
+	border-top-left-radius:20px;
+	-webkit-border-top-right-radius:20px;
+	-moz-border-radius-topright:20px;
+	border-top-right-radius:20px;
+	-webkit-border-bottom-right-radius:20px;
+	-moz-border-radius-bottomright:20px;
+	border-bottom-right-radius:20px;
+	-webkit-border-bottom-left-radius:20px;
+	-moz-border-radius-bottomleft:20px;
+	border-bottom-left-radius:20px;
+	text-indent:0;
+	border:1px solid #5bb7bf;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:52px;
+	line-height:52px;
+	width:185px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #5bb7bf;
+}.classname:hover {
+	background-color:#5bb7bf;
+}.classname:active {
+	position:relative;
+	top:1px;
+}</style>
+/* This button was generated using CSSButtonGenerator.com */
+
 body {
   margin: 0;
 }
